@@ -1,0 +1,992 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "9dd8fb9840a0f34022dbb0b4b728f947"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "85514f933f9e0b82460af63f1a403fa5"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "7abfb28a4e64cfb459274856301e8bd3"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "ee6039fb2b08677e24c9030a5212c142"
+    },
+    {
+        "path": "/assets/css/style_ORIGINAL.css",
+        "type": "file",
+        "md5": "737b1b23f7afb62e6e24749bb558119c"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "1d85deb2c27be8b269021c3f4043467e"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "08add7f6d435054ad38ec38d7cf8be40"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "cbdaf7c20ac2883c77ae23acfbabd47e"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "7d09abecdcbd61d9f7eed02ad7ed9f3e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "12129ae64db69ed98868da86ad4542b6"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "49db3589f7cc4e2c2fbd61073450b881"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "1183f80a7de1312c6aaed6cb2040d26b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "f4242a99ea504fbf8ddefb40c853de4d"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "de8cf878500c5ec452ae912ddb9c7aaa"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.ttf",
+        "type": "file",
+        "md5": "d38445641a866e80bccf9cb4c4a03de8"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.woff2",
+        "type": "file",
+        "md5": "5f14f683621dbaf2d3644848b74c5a7f"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/martin-hoppe",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/martin-hoppe/index.html",
+        "type": "file",
+        "md5": "26efaf270b4f103b482853d3149be45b"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "a804d6d74254ee5b43ad44e3877f0014"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "7d8cbd5c6ee9157c9b07479d8a871eed"
+    },
+    {
+        "path": "Flyer_MEA_11_2025.pdf",
+        "type": "file",
+        "md5": "1e53491b42727393825bbceba9b3519b"
+    },
+    {
+        "path": "google9537afdd8c05bc24.html",
+        "type": "file",
+        "md5": "7c77266bc271bc3bfd0b7dba4e1e80eb"
+    },
+    {
+        "path": "impressum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/impressum/index.html",
+        "type": "file",
+        "md5": "5b129ea5cfe312fd6c3fc4695c1663d1"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "2580be1e978be29a836ef1f828718bcf"
+    },
+    {
+        "path": "links",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/links/index.html",
+        "type": "file",
+        "md5": "f1a6e05b50f9f4dc65462c9b8f49b796"
+    },
+    {
+        "path": "links/kalender",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/links/kalender/index.html",
+        "type": "file",
+        "md5": "bde24bc1eb77fef2f7ce6017865dd651"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "media/plugins/featherIcons",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/featherIcons/feather-sprite.svg",
+        "type": "file",
+        "md5": "09960c3de0fb9233eaac720d45ab4bc5"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/Screenshot-2026-01-15-214648-md-3-md.webp",
+        "type": "file",
+        "md5": "2f06fd5fabb2a7757c027a88045d898c"
+    },
+    {
+        "path": "/media/posts/10/responsive/Screenshot-2026-01-15-214648-md-3-sm.webp",
+        "type": "file",
+        "md5": "2f06fd5fabb2a7757c027a88045d898c"
+    },
+    {
+        "path": "/media/posts/10/responsive/Screenshot-2026-01-15-214648-md-3-xs.webp",
+        "type": "file",
+        "md5": "d59f8e9615778c0e7cd2ab18e855f08d"
+    },
+    {
+        "path": "/media/posts/10/Screenshot-2026-01-15-214648-md-3.png",
+        "type": "file",
+        "md5": "1ffee949300e2bf2c8823c5c3bedb5f7"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/TanerMachtMit-3-md.webp",
+        "type": "file",
+        "md5": "8a9b6b815302bf6313500b23f6f3179f"
+    },
+    {
+        "path": "/media/posts/15/responsive/TanerMachtMit-3-sm.webp",
+        "type": "file",
+        "md5": "f75da8bd1dafce22ae4ce0c2a0c7a57b"
+    },
+    {
+        "path": "/media/posts/15/responsive/TanerMachtMit-3-xs.webp",
+        "type": "file",
+        "md5": "3c157a39a5fb389c30773705cc2735c6"
+    },
+    {
+        "path": "/media/posts/15/responsive/TanerMachtMitOhneGesicht2-md.webp",
+        "type": "file",
+        "md5": "7fcd62cb53d87856d83cc6627018a8ce"
+    },
+    {
+        "path": "/media/posts/15/responsive/TanerMachtMitOhneGesicht2-sm.webp",
+        "type": "file",
+        "md5": "5d54cf229dee1943589452c7effba820"
+    },
+    {
+        "path": "/media/posts/15/responsive/TanerMachtMitOhneGesicht2-xs.webp",
+        "type": "file",
+        "md5": "36cbbcb00ef6ed33ff3a7231bc5500f4"
+    },
+    {
+        "path": "/media/posts/15/TanerMachtMit-3.jpg",
+        "type": "file",
+        "md5": "4626983d8c75cac854875f21750d32f4"
+    },
+    {
+        "path": "/media/posts/15/TanerMachtMitOhneGesicht2.jpg",
+        "type": "file",
+        "md5": "ff86ee6acc1923b170f59bcb84205949"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/Umfrage2026-3-md.webp",
+        "type": "file",
+        "md5": "3fa0c645077d04b54b55ee0306cfd77b"
+    },
+    {
+        "path": "/media/posts/16/responsive/Umfrage2026-3-sm.webp",
+        "type": "file",
+        "md5": "a4f8e9243dbb5549065ef02ead08eb89"
+    },
+    {
+        "path": "/media/posts/16/responsive/Umfrage2026-3-xs.webp",
+        "type": "file",
+        "md5": "0b819b14121ad4a0c61da68d45246fcc"
+    },
+    {
+        "path": "/media/posts/16/Umfrage2026-3.webp",
+        "type": "file",
+        "md5": "c410ba2daf666eae56b6805122c57ca3"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/Elbe-Schule-Sonne.jpg",
+        "type": "file",
+        "md5": "1ace4eda38f59728e284209b9e5d52ba"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Elbe-Schule-Sonne-md.webp",
+        "type": "file",
+        "md5": "4d3c17c8208a89489c6beac8cfa1e95b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Elbe-Schule-Sonne-sm.webp",
+        "type": "file",
+        "md5": "6e2335016c9e2cae6d623b00fbc86c7d"
+    },
+    {
+        "path": "/media/posts/2/responsive/Elbe-Schule-Sonne-xs.webp",
+        "type": "file",
+        "md5": "dc5c5ef0e342cd8b7252a17c0588c434"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/TanerMachtMitOhneGesicht2-lg.webp",
+        "type": "file",
+        "md5": "1032775fee64d3a7916e263b2b1e42d9"
+    },
+    {
+        "path": "/media/posts/21/responsive/TanerMachtMitOhneGesicht2-md.webp",
+        "type": "file",
+        "md5": "7fcd62cb53d87856d83cc6627018a8ce"
+    },
+    {
+        "path": "/media/posts/21/responsive/TanerMachtMitOhneGesicht2-sm.webp",
+        "type": "file",
+        "md5": "5d54cf229dee1943589452c7effba820"
+    },
+    {
+        "path": "/media/posts/21/responsive/TanerMachtMitOhneGesicht2-xl.webp",
+        "type": "file",
+        "md5": "c8a2936f8403fa6321d3f0cc7607a6d2"
+    },
+    {
+        "path": "/media/posts/21/responsive/TanerMachtMitOhneGesicht2-xs.webp",
+        "type": "file",
+        "md5": "36cbbcb00ef6ed33ff3a7231bc5500f4"
+    },
+    {
+        "path": "/media/posts/21/responsive/TanerMachtMitOhneGesicht2-xxl.webp",
+        "type": "file",
+        "md5": "c8a2936f8403fa6321d3f0cc7607a6d2"
+    },
+    {
+        "path": "/media/posts/21/TanerMachtMitOhneGesicht2.jpg",
+        "type": "file",
+        "md5": "ff86ee6acc1923b170f59bcb84205949"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Screenshot-2026-01-15-214648-md-3-md.webp",
+        "type": "file",
+        "md5": "2f06fd5fabb2a7757c027a88045d898c"
+    },
+    {
+        "path": "/media/posts/5/responsive/Screenshot-2026-01-15-214648-md-3-sm.webp",
+        "type": "file",
+        "md5": "2f06fd5fabb2a7757c027a88045d898c"
+    },
+    {
+        "path": "/media/posts/5/responsive/Screenshot-2026-01-15-214648-md-3-xs.webp",
+        "type": "file",
+        "md5": "d59f8e9615778c0e7cd2ab18e855f08d"
+    },
+    {
+        "path": "/media/posts/5/Screenshot-2026-01-15-214648-md-3.png",
+        "type": "file",
+        "md5": "1ffee949300e2bf2c8823c5c3bedb5f7"
+    },
+    {
+        "path": "media/posts/53",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/53/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/53/responsive/Schulzeit-3-md.webp",
+        "type": "file",
+        "md5": "06b5ea2d3c78a636545c80a9402da81e"
+    },
+    {
+        "path": "/media/posts/53/responsive/Schulzeit-3-sm.webp",
+        "type": "file",
+        "md5": "8fcdc6929d0f1a78775569a856c3b61e"
+    },
+    {
+        "path": "/media/posts/53/responsive/Schulzeit-3-xs.webp",
+        "type": "file",
+        "md5": "b0ca9086d3871cefc9bd007ed2e1e8c4"
+    },
+    {
+        "path": "/media/posts/53/Schulzeit-3.jpg",
+        "type": "file",
+        "md5": "8be8150f51df5e8d8816bea8d32054cc"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/8/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/gallery/Alan_IMG_0177-2-thumbnail.webp",
+        "type": "file",
+        "md5": "9a9aed434556479397480c1204c2aabc"
+    },
+    {
+        "path": "/media/posts/8/gallery/Alan_IMG_0177-2.jpg",
+        "type": "file",
+        "md5": "423ea52da755b3359596364435f57727"
+    },
+    {
+        "path": "/media/posts/8/gallery/Alan_IMG_0184-2-thumbnail.webp",
+        "type": "file",
+        "md5": "85ee3632d526ffc9216df57a23dbac02"
+    },
+    {
+        "path": "/media/posts/8/gallery/Alan_IMG_0184-2.jpg",
+        "type": "file",
+        "md5": "e2eb608e88a4368c43d5b5d09c52ba9f"
+    },
+    {
+        "path": "/media/posts/8/gallery/Eva_IMG_0262-2-thumbnail.webp",
+        "type": "file",
+        "md5": "cb5d4fbf20c665e72e2f32f3ea89b71f"
+    },
+    {
+        "path": "/media/posts/8/gallery/Eva_IMG_0262-2.jpg",
+        "type": "file",
+        "md5": "a3755ce399421e21f1829f4d87fdb4d5"
+    },
+    {
+        "path": "/media/posts/8/gallery/Eva_IMG_0266-2-thumbnail.webp",
+        "type": "file",
+        "md5": "5d05f57913f47cb4c6ba993cbc46e291"
+    },
+    {
+        "path": "/media/posts/8/gallery/Eva_IMG_0266-2.jpg",
+        "type": "file",
+        "md5": "978f230d575a846b3a6ae30b76c4caab"
+    },
+    {
+        "path": "/media/posts/8/gallery/Holly_IMG_0152-2-thumbnail.webp",
+        "type": "file",
+        "md5": "106e25e80533f08c03c957d95c9f74aa"
+    },
+    {
+        "path": "/media/posts/8/gallery/Holly_IMG_0152-2.jpg",
+        "type": "file",
+        "md5": "1f83a442b151549bb9cb82560fcb7199"
+    },
+    {
+        "path": "/media/posts/8/gallery/Holly_IMG_0160-2-thumbnail.webp",
+        "type": "file",
+        "md5": "7c000b174653e3e1486f5c8a4ef3b554"
+    },
+    {
+        "path": "/media/posts/8/gallery/Holly_IMG_0160-2.jpg",
+        "type": "file",
+        "md5": "78b3cd0942252d7d7215ad6fb646f916"
+    },
+    {
+        "path": "/media/posts/8/gallery/Ibrahim_IMG_0199-2-thumbnail.webp",
+        "type": "file",
+        "md5": "ad2151667875e57b19398df2e99a4898"
+    },
+    {
+        "path": "/media/posts/8/gallery/Ibrahim_IMG_0199-2.jpg",
+        "type": "file",
+        "md5": "62ac4da11784caafb62a8dadf9701dfa"
+    },
+    {
+        "path": "/media/posts/8/gallery/Ibrahim_IMG_0250-2-thumbnail.webp",
+        "type": "file",
+        "md5": "a877c8bff93ebdbdd9c0e2c68f6f971f"
+    },
+    {
+        "path": "/media/posts/8/gallery/Ibrahim_IMG_0250-2.jpg",
+        "type": "file",
+        "md5": "13874e0c35b7d4c29c1da4478a7cc7c4"
+    },
+    {
+        "path": "/media/posts/8/gallery/Joska_IMG_0255-2-thumbnail.webp",
+        "type": "file",
+        "md5": "387d3e9f9dd8c93527650a7460e8b1a3"
+    },
+    {
+        "path": "/media/posts/8/gallery/Joska_IMG_0255-2.jpg",
+        "type": "file",
+        "md5": "753babc7abf292d5964296dfd5a2ff3e"
+    },
+    {
+        "path": "/media/posts/8/gallery/Joska_IMG_0335-2-thumbnail.webp",
+        "type": "file",
+        "md5": "3555103980664c59d2ab47aacd508f45"
+    },
+    {
+        "path": "/media/posts/8/gallery/Joska_IMG_0335-2.jpg",
+        "type": "file",
+        "md5": "6cc2f3973e2c2fece5003b819c414186"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kantia_IMG_0179-2-thumbnail.webp",
+        "type": "file",
+        "md5": "becbe5de6e4f883522389e2b57f9c7c6"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kantia_IMG_0179-2.jpg",
+        "type": "file",
+        "md5": "d279f63382f00fce87dbce31c971867f"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kantia_IMG_0198-2-thumbnail.webp",
+        "type": "file",
+        "md5": "f671ad67337d74a187ac45191a5ea97b"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kantia_IMG_0198-2.jpg",
+        "type": "file",
+        "md5": "c86b70112cce5c1b35431b7a9c592de1"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kilian_IMG_0145-2-thumbnail.webp",
+        "type": "file",
+        "md5": "21c1c9d4d26084a08669256d8c758cbc"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kilian_IMG_0145-2.jpg",
+        "type": "file",
+        "md5": "9372cfd5b22cdfa4aeed1301a5855199"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kilian_IMG_0192-2-thumbnail.webp",
+        "type": "file",
+        "md5": "bc394e97ccd3681c8b271570f44df495"
+    },
+    {
+        "path": "/media/posts/8/gallery/Kilian_IMG_0192-2.jpg",
+        "type": "file",
+        "md5": "0f2305f933cd131ec52e41f2c6344386"
+    },
+    {
+        "path": "/media/posts/8/gallery/Maryem_IMG_0132-2-thumbnail.webp",
+        "type": "file",
+        "md5": "0aa22dbbe5cc9ffa9984af8a0e275949"
+    },
+    {
+        "path": "/media/posts/8/gallery/Maryem_IMG_0132-2.jpg",
+        "type": "file",
+        "md5": "51d92477ddfd97adbc49b9c0e06eb9cb"
+    },
+    {
+        "path": "/media/posts/8/gallery/Maryem_IMG_0166-2-thumbnail.webp",
+        "type": "file",
+        "md5": "a28ab3ebbf1d116e7bf11b2cbddcf983"
+    },
+    {
+        "path": "/media/posts/8/gallery/Maryem_IMG_0166-2.jpg",
+        "type": "file",
+        "md5": "8148c5a6e2a23e729c1f2b97fdc94dc6"
+    },
+    {
+        "path": "/media/posts/8/gallery/Mirek_IMG_0121-2-thumbnail.webp",
+        "type": "file",
+        "md5": "0915ebe654f9aaf01a1f6cad346a98b0"
+    },
+    {
+        "path": "/media/posts/8/gallery/Mirek_IMG_0121-2.jpg",
+        "type": "file",
+        "md5": "42262aebda34b167f2074b14c876a3b2"
+    },
+    {
+        "path": "/media/posts/8/gallery/Mirek_IMG_0139-2-thumbnail.webp",
+        "type": "file",
+        "md5": "ad4f8db95c62fe2580392f8509625298"
+    },
+    {
+        "path": "/media/posts/8/gallery/Mirek_IMG_0139-2.jpg",
+        "type": "file",
+        "md5": "9c8087c9e197b018131bc953fdcb7904"
+    },
+    {
+        "path": "/media/posts/8/gallery/Moma_IMG_0197-2-thumbnail.webp",
+        "type": "file",
+        "md5": "e8672547b10483b68d653db75f6ce82c"
+    },
+    {
+        "path": "/media/posts/8/gallery/Moma_IMG_0197-2.jpg",
+        "type": "file",
+        "md5": "c8562210ee5e22a712e631f53ae56174"
+    },
+    {
+        "path": "/media/posts/8/gallery/Moma_IMG_0199-2-thumbnail.webp",
+        "type": "file",
+        "md5": "4015ffa8b93f8c4ea4338853981a1f03"
+    },
+    {
+        "path": "/media/posts/8/gallery/Moma_IMG_0199-2.jpg",
+        "type": "file",
+        "md5": "4425a7c9a153178940e3bd4748480fd4"
+    },
+    {
+        "path": "/media/posts/8/gallery/Sterica_IMG_0122-2-thumbnail.webp",
+        "type": "file",
+        "md5": "d13189072660740659460e865a400d36"
+    },
+    {
+        "path": "/media/posts/8/gallery/Sterica_IMG_0122-2.jpg",
+        "type": "file",
+        "md5": "5363e1c29525e28122d639f14dd7702c"
+    },
+    {
+        "path": "/media/posts/8/gallery/Sterica_IMG_0123-2-thumbnail.webp",
+        "type": "file",
+        "md5": "044f426e53897aacb82d36047228ddd1"
+    },
+    {
+        "path": "/media/posts/8/gallery/Sterica_IMG_0123-2.jpg",
+        "type": "file",
+        "md5": "e486d5ff121d0e884ab4783e7ef85c7d"
+    },
+    {
+        "path": "news",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "news/der-rythmus-des-lernens",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/der-rythmus-des-lernens/index.html",
+        "type": "file",
+        "md5": "cbe15c35de1f792c8e4d94a2bc213eaf"
+    },
+    {
+        "path": "news/fuer-eltern-berliner-bildungsprogramm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/fuer-eltern-berliner-bildungsprogramm/index.html",
+        "type": "file",
+        "md5": "42e116bfe5c00f7ad9cddcce18ad4328"
+    },
+    {
+        "path": "/news/index.html",
+        "type": "file",
+        "md5": "4deb247fd2051e230136d8a9022523ed"
+    },
+    {
+        "path": "news/mach-mit",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/mach-mit/index.html",
+        "type": "file",
+        "md5": "e4a2caef6ed47b58d8392c6d22badd9a"
+    },
+    {
+        "path": "news/nothing-in-here",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/nothing-in-here/index.html",
+        "type": "file",
+        "md5": "855c841e623eb3543c8c29c8bd06397e"
+    },
+    {
+        "path": "news/_sammlung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/_sammlung/index.html",
+        "type": "file",
+        "md5": "6ef6285d866db4318d655482165c32c6"
+    },
+    {
+        "path": "news/___bausteine",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/news/___bausteine/index.html",
+        "type": "file",
+        "md5": "707ea45af08144b9c9e2163d77efe70b"
+    },
+    {
+        "path": "no-page-yet",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/no-page-yet/index.html",
+        "type": "file",
+        "md5": "73b933b3bca8628de804f3005f53944a"
+    },
+    {
+        "path": "projekte",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "projekte/fotografie-die-kunst-der-langen-belichtung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/projekte/fotografie-die-kunst-der-langen-belichtung/index.html",
+        "type": "file",
+        "md5": "3dc505286a340994171df376206cd4ac"
+    },
+    {
+        "path": "/projekte/index.html",
+        "type": "file",
+        "md5": "2284d88867504f20053c8d8479eb8094"
+    },
+    {
+        "path": "publii-page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "publii-page/das-bbp-an-der-elbe-schule",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publii-page/das-bbp-an-der-elbe-schule/index.html",
+        "type": "file",
+        "md5": "4c2bf108f548f9838026c2ef00b0092a"
+    },
+    {
+        "path": "publii-page/die-entwicklung-schulprogramms",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publii-page/die-entwicklung-schulprogramms/index.html",
+        "type": "file",
+        "md5": "3f3e1f4e31995097108e7a63f869b6bd"
+    },
+    {
+        "path": "publii-page/eltern-und-das-bildungsprogramm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publii-page/eltern-und-das-bildungsprogramm/index.html",
+        "type": "file",
+        "md5": "1a9b82c21b1e6b227c743be0c8a93814"
+    },
+    {
+        "path": "/publii-page/index.html",
+        "type": "file",
+        "md5": "98b4307642797ea51a960d05b82a6e18"
+    },
+    {
+        "path": "publii-page/schulgremien",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publii-page/schulgremien/index.html",
+        "type": "file",
+        "md5": "ad5133ec96ec517bd9b9db2204d916c5"
+    },
+    {
+        "path": "publii-page/stand-des-bbp-kernbereich-kooperation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publii-page/stand-des-bbp-kernbereich-kooperation/index.html",
+        "type": "file",
+        "md5": "99b939502244401d643f9d7bec0da069"
+    },
+    {
+        "path": "publii-page/vorschlaege-schulprogramm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publii-page/vorschlaege-schulprogramm/index.html",
+        "type": "file",
+        "md5": "335bc5f10cda422928619c4d7bc29c81"
+    },
+    {
+        "path": "rechtliches",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/rechtliches/index.html",
+        "type": "file",
+        "md5": "7311be9c196d0445469330eb068d3ae0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "fae201d33e20808773c225ef21c96d6b"
+    },
+    {
+        "path": "schulessen-monitor-2026.html",
+        "type": "file",
+        "md5": "8e7169ac51320760517eebd50a62df55"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "a2108dfb6eae47c1acedec67a56e31b3"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "stand-der-baumassnahmen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "stand-der-baumassnahmen/das-bauprojekt-schule-am-koppelweg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stand-der-baumassnahmen/das-bauprojekt-schule-am-koppelweg/index.html",
+        "type": "file",
+        "md5": "aaa1b0329f656c9def6ecc4388ae6f39"
+    },
+    {
+        "path": "/stand-der-baumassnahmen/index.html",
+        "type": "file",
+        "md5": "d2d080baec1da50714c876a115a0e1c3"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "65669453781be49e4003840bca159c7f"
+    },
+    {
+        "path": "tags/nothinginhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/nothinginhere/index.html",
+        "type": "file",
+        "md5": "132c718e748858acc937d03f0e61edee"
+    },
+    {
+        "path": "test",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/test/index.html",
+        "type": "file",
+        "md5": "acda6f86d047214b508b078a8e4d6144"
+    },
+    {
+        "path": "test-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/test-2/index.html",
+        "type": "file",
+        "md5": "809d1e2c8fa13082ff7cc1a0107e53ac"
+    }
+]

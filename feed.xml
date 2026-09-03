@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Förderverein Schule am Koppelweg</title>
+    <link href="https://fvsak.vercel.app/feed.xml" rel="self" />
+    <link href="https://fvsak.vercel.app" />
+    <updated>2026-06-25T09:58:25+02:00</updated>
+    <author>
+        <name>Martin Hoppe</name>
+    </author>
+    <id>https://fvsak.vercel.app</id>
+
+    <entry>
+        <title>___BAUSTEINE</title>
+        <author>
+            <name>Martin Hoppe</name>
+        </author>
+        <link href="https://fvsak.vercel.app/news/___bausteine/"/>
+        <id>https://fvsak.vercel.app/news/___bausteine/</id>
+
+        <updated>2026-06-25T09:58:25+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    XXXXXVon der Materie zur biologischen Gewissheit text
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <details><span style="color: inherit;"> </span>
+<summary>XXXXXVon der Materie zur biologischen Gewissheit</summary>
+text</details>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nothing in here yet</title>
+        <author>
+            <name>Martin Hoppe</name>
+        </author>
+        <link href="https://fvsak.vercel.app/news/nothing-in-here/"/>
+        <id>https://fvsak.vercel.app/news/nothing-in-here/</id>
+            <category term="NothingInHere"/>
+
+        <updated>2026-04-24T15:00:24+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Under construction.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Under construction.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

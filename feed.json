@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Förderverein Schule am Koppelweg",
+    "description": "",
+    "home_page_url": "https://fvsak.vercel.app",
+    "feed_url": "https://fvsak.vercel.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Martin Hoppe"
+    },
+    "items": [
+        {
+            "id": "https://fvsak.vercel.app/news/___bausteine/",
+            "url": "https://fvsak.vercel.app/news/___bausteine/",
+            "title": "___BAUSTEINE",
+            "summary": "XXXXXVon der Materie zur biologischen Gewissheit text",
+            "content_html": "<details><span style=\"color: inherit;\"> </span>\n<summary>XXXXXVon der Materie zur biologischen Gewissheit</summary>\ntext</details>",
+            "author": {
+                "name": "Martin Hoppe"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-25T09:58:25+02:00",
+            "date_modified": "2026-06-25T09:58:25+02:00"
+        },
+        {
+            "id": "https://fvsak.vercel.app/news/nothing-in-here/",
+            "url": "https://fvsak.vercel.app/news/nothing-in-here/",
+            "title": "Nothing in here yet",
+            "summary": "Under construction.",
+            "content_html": "<p>Under construction.</p>",
+            "author": {
+                "name": "Martin Hoppe"
+            },
+            "tags": [
+                   "NothingInHere"
+            ],
+            "date_published": "2026-04-24T15:00:24+02:00",
+            "date_modified": "2026-05-02T10:46:02+02:00"
+        }
+    ]
+}
