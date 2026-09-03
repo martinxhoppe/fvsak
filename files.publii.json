@@ -177,7 +177,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f64691cea37805301382b47403752549"
+        "md5": "2715b0c4b03b9cfbb577554a8a15250a"
     },
     {
         "path": "links",
@@ -743,6 +743,16 @@
         "path": "media/posts/92",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/92/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/92/gallery/Screenshot-2026-09-03-113846.jpg",
+        "type": "file",
+        "md5": "a54232ac97cc310f0a41306f42a87259"
     },
     {
         "path": "media/posts/92/responsive",
