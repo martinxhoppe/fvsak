@@ -165,11 +165,6 @@
         "md5": "7d8cbd5c6ee9157c9b07479d8a871eed"
     },
     {
-        "path": "Flyer_MEA_11_2025.pdf",
-        "type": "file",
-        "md5": "1e53491b42727393825bbceba9b3519b"
-    },
-    {
         "path": "google9537afdd8c05bc24.html",
         "type": "file",
         "md5": "7c77266bc271bc3bfd0b7dba4e1e80eb"
@@ -218,6 +213,11 @@
         "path": "media/files",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/files/personen-funktionen.html",
+        "type": "file",
+        "md5": "1192b1f3842aea9d1a5436465bd3c813"
     },
     {
         "path": "/media/files/Screenshot 2026-09-03 113846.jpg",
