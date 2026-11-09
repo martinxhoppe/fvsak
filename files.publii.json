@@ -152,7 +152,7 @@
     {
         "path": "/das-bbp-an-der-elbe-schule/index.html",
         "type": "file",
-        "md5": "6f9a21d34e9579dd838297e2a3c1f174"
+        "md5": "f1d9f8133ddc05488c032e8b69fdb1b3"
     },
     {
         "path": "elternpartizipation",
@@ -162,7 +162,7 @@
     {
         "path": "/elternpartizipation/index.html",
         "type": "file",
-        "md5": "2c921bd15aecfdb742fd7e515cf2c81f"
+        "md5": "dadda70b16bfda7696c51ad842531af6"
     },
     {
         "path": "feed.json",
@@ -847,7 +847,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "8697817c374afb3325cba477f992a964"
+        "md5": "f0c927ada51bf0a5240c7158f61c60cd"
     },
     {
         "path": "sitemap.xsl",
