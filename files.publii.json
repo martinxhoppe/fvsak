@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "eedebfd99e0606a7665ab255a1d2d783"
+        "md5": "5a3891f96460123736a9092791cfe1af"
     },
     {
         "path": "assets",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/martin-hoppe/index.html",
         "type": "file",
-        "md5": "7379d8c620f1f7211c7ac0932f9923d0"
+        "md5": "ebaca5e7731881401202ebfe05307e0d"
     },
     {
         "path": "das-bbp-an-der-elbe-schule",
@@ -152,7 +152,7 @@
     {
         "path": "/das-bbp-an-der-elbe-schule/index.html",
         "type": "file",
-        "md5": "f376e68c6c4bf320cb0eeaf4597bccbc"
+        "md5": "e452459d1b812476651cb751caeecc3e"
     },
     {
         "path": "feed.json",
@@ -177,12 +177,12 @@
     {
         "path": "/impressum/index.html",
         "type": "file",
-        "md5": "7b9ddc3e26e3b8dbb16837f17ec4444d"
+        "md5": "290a1c4d8b686970c16ecb71bfd8a253"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "33b2c4948713b821cef7b02c8497ab67"
+        "md5": "da524dca5787d26ff13c278b5a7ffca6"
     },
     {
         "path": "links",
@@ -192,7 +192,7 @@
     {
         "path": "/links/index.html",
         "type": "file",
-        "md5": "7ee9bdf292f1eefb43187f535598ec87"
+        "md5": "9ccea489a83c2422959d0a78977b99b3"
     },
     {
         "path": "links/kalender",
@@ -202,7 +202,7 @@
     {
         "path": "/links/kalender/index.html",
         "type": "file",
-        "md5": "c29a1b3bfebc3e733b5b831ead0ee29e"
+        "md5": "9337d209a0b5368ccd13a6b4ce3cc9c8"
     },
     {
         "path": "media",
@@ -717,7 +717,7 @@
     {
         "path": "/news/der-rythmus-des-lernens/index.html",
         "type": "file",
-        "md5": "d09838c3d29c0f200052b951f0fb4ea1"
+        "md5": "c5e4e82d654b552402427b5930fa8f41"
     },
     {
         "path": "news/fuer-eltern-berliner-bildungsprogramm",
@@ -727,12 +727,12 @@
     {
         "path": "/news/fuer-eltern-berliner-bildungsprogramm/index.html",
         "type": "file",
-        "md5": "f9f2e1b02526ce39bc4a09a8e46e17a1"
+        "md5": "deb5764dda849886981e9a266f816266"
     },
     {
         "path": "/news/index.html",
         "type": "file",
-        "md5": "a99c6fa06e56ed0b9ab0745ac3ca8093"
+        "md5": "bae0d1dc42665fc8d25762e44779864a"
     },
     {
         "path": "news/mach-mit",
@@ -742,7 +742,7 @@
     {
         "path": "/news/mach-mit/index.html",
         "type": "file",
-        "md5": "13b0d06980940b53377ee337993614a3"
+        "md5": "7ec04f45b54b8935c1ad55105d440217"
     },
     {
         "path": "news/nothing-in-here",
@@ -752,7 +752,7 @@
     {
         "path": "/news/nothing-in-here/index.html",
         "type": "file",
-        "md5": "1a8e9fc0edc744b9d2aaeef525b33727"
+        "md5": "8d802de3f1f48bb07e29a3a9b5005e4c"
     },
     {
         "path": "news/_sammlung",
@@ -762,7 +762,7 @@
     {
         "path": "/news/_sammlung/index.html",
         "type": "file",
-        "md5": "4c9ce6674b910e85043c01e7f295b5a4"
+        "md5": "50515401c7e48f1dbf311e2ede1e9294"
     },
     {
         "path": "news/___bausteine",
@@ -772,7 +772,7 @@
     {
         "path": "/news/___bausteine/index.html",
         "type": "file",
-        "md5": "f0a5af63fa8fdfcfe82a9e46ce647646"
+        "md5": "8ac708af535d3706f70bdf3d988a7702"
     },
     {
         "path": "no-page-yet",
@@ -782,7 +782,7 @@
     {
         "path": "/no-page-yet/index.html",
         "type": "file",
-        "md5": "39dd54b4eb76be61dd9f84778ff0e750"
+        "md5": "5abfb4ca47cc0b319a01f22f74415d23"
     },
     {
         "path": "projekte",
@@ -797,12 +797,12 @@
     {
         "path": "/projekte/fotografie-die-kunst-der-langen-belichtung/index.html",
         "type": "file",
-        "md5": "20de09d44c22b16874b1ee96846acaa0"
+        "md5": "47eda910ed93ca6b4a9b619950cafc9d"
     },
     {
         "path": "/projekte/index.html",
         "type": "file",
-        "md5": "c2b895595a931437301d6b595545e140"
+        "md5": "cec51f87c86788a45822693b5fcba615"
     },
     {
         "path": "rechtliches",
@@ -812,7 +812,7 @@
     {
         "path": "/rechtliches/index.html",
         "type": "file",
-        "md5": "88022cbd49dfa8946e276f8736aaf6c4"
+        "md5": "1e412a731191956a7928b9d074d6911f"
     },
     {
         "path": "robots.txt",
@@ -832,7 +832,7 @@
     {
         "path": "/schulgremien/index.html",
         "type": "file",
-        "md5": "7aba5f0fdc162493937424661566ae6a"
+        "md5": "336a15f255171f15fa37ec86376b950d"
     },
     {
         "path": "sitemap.xml",
@@ -857,12 +857,12 @@
     {
         "path": "/stand-der-baumassnahmen/das-bauprojekt-schule-am-koppelweg/index.html",
         "type": "file",
-        "md5": "ccdfceba7d182f4430b3007dbd8a29d3"
+        "md5": "73dd10d04ee276b1cd68d2fd4796f605"
     },
     {
         "path": "/stand-der-baumassnahmen/index.html",
         "type": "file",
-        "md5": "ed2afd4ff6ad2042130256c2a7bce1fa"
+        "md5": "6041f6645557ee5480651e07a2b04c5a"
     },
     {
         "path": "stand-des-bbp-kernbereich-kooperation",
@@ -872,7 +872,7 @@
     {
         "path": "/stand-des-bbp-kernbereich-kooperation/index.html",
         "type": "file",
-        "md5": "cf96c48c83a2d4c88ef5a0160204a1c5"
+        "md5": "580e8504880835f30347add4a02f729f"
     },
     {
         "path": "tags",
@@ -882,7 +882,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "83aee98ba89ff1954758e07f4ea9227b"
+        "md5": "1988f091d7b14fdb11956eabd1fa4d99"
     },
     {
         "path": "tags/nothinginhere",
@@ -892,7 +892,7 @@
     {
         "path": "/tags/nothinginhere/index.html",
         "type": "file",
-        "md5": "0d5bc2f3d1686b1abd9f7aabdd63fd3d"
+        "md5": "97c064603607d057bed2464f6d089f1d"
     },
     {
         "path": "test",
@@ -902,7 +902,7 @@
     {
         "path": "/test/index.html",
         "type": "file",
-        "md5": "3950d8a2869c8dcf4ca6772ba9bda83c"
+        "md5": "6dd4f296e0eae2d84ad2f45f2d05f60d"
     },
     {
         "path": "test-2",
@@ -912,6 +912,6 @@
     {
         "path": "/test-2/index.html",
         "type": "file",
-        "md5": "f6cc9dcd6b16c196e060384c79551441"
+        "md5": "744a556f493a07cd4dd7e2157923a065"
     }
 ]
